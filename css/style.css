@@ -476,6 +476,10 @@ nav a.active {
         url(../images/hero/hero-bg-pc@2x.jpg);
     }
   }
+
+  .hero-title {
+    margin-bottom: 48px;
+  }
 }
 
 /*================== Features Section ==================*/
